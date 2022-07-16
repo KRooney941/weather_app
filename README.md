@@ -1,6 +1,6 @@
 Weather application using React and OpenWeatherMap API and GeoDB API.
 
-![Screenshot 2022-07-16 at 10 48 36](https://user-images.githubusercontent.com/102115466/179349908-2c57b136-355c-40dd-a28b-03e6a7bb3366.png)
+![Screenshot 2022-07-16 at 10 48 36](https://user-images.githubusercontent.com/102115466/179349956-4251e142-7346-4656-a72f-2fd168d1b89d.png)
 
 # Getting Started with Create React App
 
